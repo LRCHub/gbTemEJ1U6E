@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "レット・ゼム・ノウ",
+  "base_artist": "Mabel",
+  "createdAt": "2026-02-16T08:09:24.751533Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let Them Know",
+      "artist": "Mabel",
+      "has_synced": false,
+      "path": "select/pl_01_Let_Them_Know_Mabel.txt"
+    }
+  ]
+}
